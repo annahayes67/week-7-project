@@ -1,0 +1,49 @@
+h1 {
+   color: rgb(230, 177, 18);
+}
+
+h3 {
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+
+.funFacts li:nth-child(even) {
+    background-color:rgb(245, 227, 179);
+
+}
+.funFacts li:nth-child(odd) {
+    background-color:rgb(245, 213, 127);
+
+}
+
+.title{
+    color: rgb(117, 90, 8);
+    font-weight: bold;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    border-bottom: 1px solid black;
+}
+
+tr {
+    background-color:rgb(252, 225, 149);
+}
+
+img {
+    border: 5px solid rgb(247, 225, 111);
+  }
+
+h2 {
+    border: double;
+    position: absolute;
+}
+  
